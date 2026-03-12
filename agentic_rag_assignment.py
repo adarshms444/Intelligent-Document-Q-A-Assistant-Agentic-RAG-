@@ -19,7 +19,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_huggingface import HuggingFaceEmbeddings
 
 import requests
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = ""
 
 LLM_MODEL = "nvidia/nemotron-3-nano-30b-a3b:free"
 
